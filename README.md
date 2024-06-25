@@ -31,16 +31,6 @@ GitHubは無料プランと有料プランを提供しています。初めて�
 ### 8. ダッシュボードの確認
 設定が完了すると、GitHubのダッシュボードに移動します。ここからリポジトリの作成や他のユーザーとのコラボレーションが可能になります。
 
-## 追加のセキュリティ設定（オプション）
-
-### 二要素認証（2FA）の設定
-アカウントのセキュリティを強化するために、二要素認証（2FA）を設定することをお勧めします。設定方法は以下の通りです。
-
-1. 右上のプロフィールアイコンをクリックし、「Settings」を選択します。
-2. 左側のメニューから「Security」を選択します。
-3. 「Two-factor authentication」のセクションで「Enable two-factor authentication」をクリックします。
-4. 指示に従って設定を完了します。
-
 これで、GitHubアカウントの作成が完了しました。GitHubを使ってプロジェクトを管理し、他の開発者とコラボレーションを始めましょう。
 
 参考にした情報は以下の通りです：
@@ -57,6 +47,51 @@ Citations:
 [7] https://www.wikihow.com/Create-an-Account-on-GitHub
 [8] https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
 [9] https://github.com/signup
+
+# Template repository(このレポジトリ)から新しいリポジトリを作成する手順
+
+1. GitHubにログインします。
+
+2. 使用したいTemplate repositoryのページに移動します。
+
+3. リポジトリ名の下にある緑色の「Use this template」ボタンをクリックします[1]。
+
+4. ドロップダウンメニューから「Create a new repository」を選択します。
+
+5. 新しいリポジトリの設定画面が表示されます。以下の項目を入力または選択します：
+
+   - **Owner**: リポジトリの所有者を選択します（通常は自分のアカウント）。
+   - **Repository name**: 新しいリポジトリの名前を入力します。
+   - **Description**: リポジトリの説明を任意で入力します。
+   - **Visibility**: パブリックまたはプライベートを選択します。
+   - **Include all branches**: テンプレートの全ブランチを含めるかどうかを選択します（オプション）。
+
+6. 設定が完了したら、「Create repository from template」ボタンをクリックします。
+
+これで、選択したTemplate repositoryの内容を基に新しいリポジトリが作成されます。新しいリポジトリには、テンプレートのディレクトリ構造、ファイル、およびブランチ（選択した場合）がコピーされます[2]。
+
+## Template repositoryを使用するメリット
+
+- プロジェクトの初期設定時間を短縮できます。
+- チーム内で一貫したプロジェクト構造を維持できます。
+- よく使うボイラープレートコードや設定ファイルを簡単に再利用できます[2]。
+
+Template repositoryを使用することで、プロジェクトの立ち上げがより迅速かつ効率的になります。特に、同じような構造のプロジェクトを頻繁に作成する場合や、チームで統一されたプロジェクト構造を維持したい場合に便利です。
+
+Citations:
+[1] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+[2] https://gitprotect.io/blog/how-to-use-github-repository-templates/
+[3] https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06
+[4] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository
+[5] https://docs.github.com/en/enterprise-cloud%40latest/codespaces/setting-up-your-project-for-codespaces/setting-up-your-repository/setting-up-a-template-repository-for-github-codespaces
+[6] https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com
+[7] https://www.youtube.com/watch?v=3nm-DgqKE6I
+[8] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
+[9] https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
+[10] https://qiita.com/ryo2132/items/08f0561804c798012146
+[11] https://www.youtube.com/watch?v=8cxYgaMB9ow
+[12] https://github.com/topics/template-repository
+
 
 # データベース更新手順
 
