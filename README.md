@@ -33,20 +33,6 @@ GitHubは無料プランと有料プランを提供しています。初めて�
 
 これで、GitHubアカウントの作成が完了しました。GitHubを使ってプロジェクトを管理し、他の開発者とコラボレーションを始めましょう。
 
-参考にした情報は以下の通りです：
-- [GitHubの公式ドキュメント](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)[2]
-- [AWS CodeDeployのチュートリアル](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-github-account.html)[1]
-
-Citations:
-[1] https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-github-account.html
-[2] https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
-[3] https://www.youtube.com/watch?v=ohqfCGMP_zk
-[4] https://www.youtube.com/watch?v=ldPuFlquiRk
-[5] https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
-[6] https://www.youtube.com/watch?v=QUtk-Uuq9nE
-[7] https://www.wikihow.com/Create-an-Account-on-GitHub
-[8] https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
-[9] https://github.com/signup
 
 # Template repository(このレポジトリ)から新しいリポジトリを作成する手順
 
@@ -77,20 +63,6 @@ Citations:
 - よく使うボイラープレートコードや設定ファイルを簡単に再利用できます[2]。
 
 Template repositoryを使用することで、プロジェクトの立ち上げがより迅速かつ効率的になります。特に、同じような構造のプロジェクトを頻繁に作成する場合や、チームで統一されたプロジェクト構造を維持したい場合に便利です。
-
-Citations:
-[1] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
-[2] https://gitprotect.io/blog/how-to-use-github-repository-templates/
-[3] https://dev.to/dev_neil_a/how-to-create-and-use-github-repository-templates-4l06
-[4] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository
-[5] https://docs.github.com/en/enterprise-cloud%40latest/codespaces/setting-up-your-project-for-codespaces/setting-up-your-repository/setting-up-a-template-repository-for-github-codespaces
-[6] https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com
-[7] https://www.youtube.com/watch?v=3nm-DgqKE6I
-[8] https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
-[9] https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
-[10] https://qiita.com/ryo2132/items/08f0561804c798012146
-[11] https://www.youtube.com/watch?v=8cxYgaMB9ow
-[12] https://github.com/topics/template-repository
 
 
 # データベース更新手順
