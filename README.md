@@ -63,7 +63,7 @@ Citations:
    - **Owner**: リポジトリの所有者を選択します（通常は自分のアカウント）。
    - **Repository name**: 新しいリポジトリの名前を入力します。
    - **Description**: リポジトリの説明を任意で入力します。
-   - **Visibility**: パブリックまたはプライベートを選択します。
+   - **Visibility**: パブリックを選択します。
    - **Include all branches**: テンプレートの全ブランチを含めるかどうかを選択します（オプション）。
 
 6. 設定が完了したら、「Create repository from template」ボタンをクリックします。
