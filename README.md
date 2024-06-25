@@ -69,10 +69,6 @@ Template repositoryを使用することで、プロジェクトの立ち上げ�
 
 0. 初期セットアップ（初回または環境再設定時のみ）
    - プロジェクトディレクトリに移動
-   - OpenAI APIキーを環境変数に設定:
-     ```
-     export OPENAI_API_KEY='配ったものに書き換えてください'
-     ```
    - 依存関係のインストールと仮想環境の作成:
      ```
      poetry install
@@ -80,6 +76,10 @@ Template repositoryを使用することで、プロジェクトの立ち上げ�
    - Poetry シェルを起動して仮想環境に入る:
      ```
      poetry shell
+     ```
+   - OpenAI APIキーを環境変数に設定:
+     ```
+     export OPENAI_API_KEY='配ったものに書き換えてください'
      ```
 
 1. Excelファイルの準備
