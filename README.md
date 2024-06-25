@@ -1,3 +1,63 @@
+# GitHubアカウントの作成手順
+
+### 1. GitHubのサイトにアクセス
+まず、ウェブブラウザを開き、[GitHubの公式サイト](https://github.com/)にアクセスします。
+
+### 2. サインアップページに移動
+GitHubのトップページにアクセスしたら、右上の「Sign up」ボタンをクリックします。
+
+### 3. アカウント情報の入力
+サインアップページに移動したら、以下の情報を入力します。
+
+- **Email address**: 使用するメールアドレスを入力します。
+- **Password**: 安全なパスワードを設定します。パスワードは強力である必要があります。
+- **Username**: ユーザー名を入力します。このユーザー名は他のユーザーと重複しないようにする必要があります。
+
+### 4. パズルの解決
+GitHubは、スパム防止のために簡単なパズルを解くように求めることがあります。指示に従ってパズルを解決してください。
+
+### 5. メールアドレスの確認
+入力したメールアドレスに確認メールが送信されます。メールを開き、確認リンクをクリックしてメールアドレスを確認します。
+
+### 6. アカウントの設定
+メールアドレスを確認した後、GitHubの初期設定を行います。以下の情報を入力します。
+
+- **Team members**: チームメンバーの数を選択します。個人で使用する場合は「Just me」を選択します。
+- **Role**: 学生や教師などの役割を選択します。
+
+### 7. プランの選択
+GitHubは無料プランと有料プランを提供しています。初めての場合は「GitHub Free」を選択し、「Continue for free」をクリックします。
+
+### 8. ダッシュボードの確認
+設定が完了すると、GitHubのダッシュボードに移動します。ここからリポジトリの作成や他のユーザーとのコラボレーションが可能になります。
+
+## 追加のセキュリティ設定（オプション）
+
+### 二要素認証（2FA）の設定
+アカウントのセキュリティを強化するために、二要素認証（2FA）を設定することをお勧めします。設定方法は以下の通りです。
+
+1. 右上のプロフィールアイコンをクリックし、「Settings」を選択します。
+2. 左側のメニューから「Security」を選択します。
+3. 「Two-factor authentication」のセクションで「Enable two-factor authentication」をクリックします。
+4. 指示に従って設定を完了します。
+
+これで、GitHubアカウントの作成が完了しました。GitHubを使ってプロジェクトを管理し、他の開発者とコラボレーションを始めましょう。
+
+参考にした情報は以下の通りです：
+- [GitHubの公式ドキュメント](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)[2]
+- [AWS CodeDeployのチュートリアル](https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-github-account.html)[1]
+
+Citations:
+[1] https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-github-create-github-account.html
+[2] https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
+[3] https://www.youtube.com/watch?v=ohqfCGMP_zk
+[4] https://www.youtube.com/watch?v=ldPuFlquiRk
+[5] https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+[6] https://www.youtube.com/watch?v=QUtk-Uuq9nE
+[7] https://www.wikihow.com/Create-an-Account-on-GitHub
+[8] https://docs.github.com/en/get-started/getting-started-with-git/set-up-git
+[9] https://github.com/signup
+
 # データベース更新手順
 
 0. 初期セットアップ（初回または環境再設定時のみ）
